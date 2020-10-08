@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{4C43D6B7-A0FC-45C4-99B5-A77BE68FD633}|Default">
+  <MonoDevelop.Ide.ItemProperties.spinner.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.829B12C9-6688-4DB6-9F39-696AC186057A" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="spinner/CustomPicker.xaml.cs">
+    <Files>
+      <File FileName="spinner/CustomPicker.xaml" Line="13" Column="1" />
+      <File FileName="spinner/CustomPicker.xaml.cs" Line="22" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="spinner" expanded="True">
+            <Node name="spinner" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="CustomPicker.xaml" expanded="True">
+                <Node name="CustomPicker.xaml.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="spinner.Android" expanded="True" />
+            <Node name="spinner.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.spinner.Android PreferredExecutionTarget="Android.Pixel_3_API_28" />
+</Properties>
