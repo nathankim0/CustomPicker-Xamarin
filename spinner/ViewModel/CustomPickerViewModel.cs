@@ -4,11 +4,11 @@ namespace spinner
 {
     public static class CustomPickerViewModel
     {		
-        public static ObservableCollection<CustomPickerItems> CustomPickerItems { get; set; }
+        public static ObservableCollection<CustomPickerItems> CustomPickerItems { get; }
 
         static CustomPickerViewModel ()
         {
-            CustomPickerViewModel.CustomPickerItems = CustomPickerData.getListDatas ();
+            CustomPickerItems = CustomPickerData.GetListDatas ();
         }
     }
 }

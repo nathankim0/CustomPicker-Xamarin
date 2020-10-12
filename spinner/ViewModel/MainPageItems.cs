@@ -4,38 +4,25 @@ using Xamarin.Forms;
 
 namespace spinner
 {
-    public class CustomPickerItems : INotifyPropertyChanged
+    public class MainPageItems : INotifyPropertyChanged
 	{
 		public event PropertyChangedEventHandler PropertyChanged;
 
-		private string _name;
-		private Color _color;
+		private string _selected="";
 
-		public string name
+		public string Selected
 		{
-			get	{ return _name;}
+			get	{ return _selected;}
 			set
 			{
-				_name = value;
+				_selected = value;
 				OnPropertyChanged();
 			}
-		}
-        public Color color
+		}/*
+		public MainPageItems(string selected)
 		{
-			get{ return _color;}
-			set
-			{
-				_color = value;
-				OnPropertyChanged();
-			}
-		}
-		
-		public CustomPickerItems (string _name, Color _color)
-		{
-		this._name=_name;
-		this._color=_color;
-		}
-
+			this._selected = selected;
+		}*/
 		void OnPropertyChanged([CallerMemberName] string propertyName = null)
 		{
 			var handler = PropertyChanged;
