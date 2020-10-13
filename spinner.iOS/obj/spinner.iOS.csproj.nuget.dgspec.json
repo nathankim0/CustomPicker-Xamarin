@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nathan-kim/Projects/spinner/spinner.iOS/spinner.iOS.csproj": {}
+    "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner.iOS/spinner.iOS.csproj": {}
   },
   "projects": {
-    "/Users/nathan-kim/Projects/spinner/spinner.iOS/spinner.iOS.csproj": {
+    "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner.iOS/spinner.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nathan-kim/Projects/spinner/spinner.iOS/spinner.iOS.csproj",
+        "projectUniqueName": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner.iOS/spinner.iOS.csproj",
         "projectName": "spinner.iOS",
-        "projectPath": "/Users/nathan-kim/Projects/spinner/spinner.iOS/spinner.iOS.csproj",
+        "projectPath": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner.iOS/spinner.iOS.csproj",
         "packagesPath": "/Users/nathan-kim/.nuget/packages/",
-        "outputPath": "/Users/nathan-kim/Projects/spinner/spinner.iOS/obj/",
+        "outputPath": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "/Users/nathan-kim/Projects/spinner/spinner/spinner.csproj": {
-                "projectPath": "/Users/nathan-kim/Projects/spinner/spinner/spinner.csproj"
+              "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/spinner.csproj": {
+                "projectPath": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/spinner.csproj"
               }
             }
           }
@@ -59,14 +59,14 @@
         }
       }
     },
-    "/Users/nathan-kim/Projects/spinner/spinner/spinner.csproj": {
+    "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/spinner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nathan-kim/Projects/spinner/spinner/spinner.csproj",
+        "projectUniqueName": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/spinner.csproj",
         "projectName": "spinner",
-        "projectPath": "/Users/nathan-kim/Projects/spinner/spinner/spinner.csproj",
+        "projectPath": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/spinner.csproj",
         "packagesPath": "/Users/nathan-kim/.nuget/packages/",
-        "outputPath": "/Users/nathan-kim/Projects/spinner/spinner/obj/",
+        "outputPath": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nathan-kim/.nuget/NuGet/NuGet.Config"

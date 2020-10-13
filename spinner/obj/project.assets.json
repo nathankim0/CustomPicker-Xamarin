@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nathan-kim/Projects/spinner/spinner/spinner.csproj",
+      "projectUniqueName": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/spinner.csproj",
       "projectName": "spinner",
-      "projectPath": "/Users/nathan-kim/Projects/spinner/spinner/spinner.csproj",
+      "projectPath": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/spinner.csproj",
       "packagesPath": "/Users/nathan-kim/.nuget/packages/",
-      "outputPath": "/Users/nathan-kim/Projects/spinner/spinner/obj/",
+      "outputPath": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nathan-kim/.nuget/NuGet/NuGet.Config"

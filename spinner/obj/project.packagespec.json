@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/nathan-kim/Projects/spinner/spinner/spinner.csproj",
+    "projectUniqueName": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/spinner.csproj",
     "projectName": "spinner",
-    "projectPath": "/Users/nathan-kim/Projects/spinner/spinner/spinner.csproj",
-    "outputPath": "/Users/nathan-kim/Projects/spinner/spinner/obj/",
+    "projectPath": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/spinner.csproj",
+    "outputPath": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netstandard2.0"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3ZZ2VERHYppsJiXXAu/zTI/AuGmfEfCnQ1iqmMGoILwRa8YkTmI1WgOScluPJ+MLSvlRlB25llZJhDheZGONeA==",
+  "dgSpecHash": "WJJOwOMCaMnvoTxzdCLapzDz40Wydvzk9+bXtffCeubQfvTUyJxaoIfU09XiOl5lO/KWSyhoQfRoZ3J3zjquag==",
   "success": true,
-  "projectFilePath": "/Users/nathan-kim/Projects/spinner/spinner.iOS/spinner.iOS.csproj",
+  "projectFilePath": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner.iOS/spinner.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/nathan-kim/.nuget/packages/rg.plugins.popup/2.0.0.6/rg.plugins.popup.2.0.0.6.nupkg.sha512",
     "/Users/nathan-kim/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",

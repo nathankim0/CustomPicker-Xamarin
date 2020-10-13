@@ -1999,11 +1999,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nathan-kim/Projects/spinner/spinner.Android/spinner.Android.csproj",
+      "projectUniqueName": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner.Android/spinner.Android.csproj",
       "projectName": "spinner.Android",
-      "projectPath": "/Users/nathan-kim/Projects/spinner/spinner.Android/spinner.Android.csproj",
+      "projectPath": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner.Android/spinner.Android.csproj",
       "packagesPath": "/Users/nathan-kim/.nuget/packages/",
-      "outputPath": "/Users/nathan-kim/Projects/spinner/spinner.Android/obj/",
+      "outputPath": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -2018,8 +2018,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/nathan-kim/Projects/spinner/spinner/spinner.csproj": {
-              "projectPath": "/Users/nathan-kim/Projects/spinner/spinner/spinner.csproj"
+            "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/spinner.csproj": {
+              "projectPath": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/spinner.csproj"
             }
           }
         }

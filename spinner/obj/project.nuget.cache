@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0WzFrovmn5IpbbV0cLrsGLQDYbypyj9xvzWXOpHRS6gB+kD7IveVECMjJQDJhb2q5d3aVLia6P/5l7Ek5vDo7Q==",
+  "dgSpecHash": "fMQLokfhLZLkw5JCK+70elEex6uA3byU+ozL1g3EE/yZGn2YjkN4kxDvuV+2Gwufww1tvcgv5ZtZnsgk2zTodw==",
   "success": true,
-  "projectFilePath": "/Users/nathan-kim/Projects/spinner/spinner/spinner.csproj",
+  "projectFilePath": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/spinner.csproj",
   "expectedPackageFiles": [
     "/Users/nathan-kim/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/nathan-kim/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",

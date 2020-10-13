@@ -74,17 +74,11 @@ namespace spinner
         
         private async void ChangeTextToSelectedItem(string text)
         {
-            // 구현이 안된 부분
             if(BindingContext is MainPageItems)
             { 
               ((MainPageItems)BindingContext).Selected = text;
                 Console.WriteLine("@@@@@@" + text);
-
             }
-
-
-            // Appliction.Current.Properties["SELECTED"] = text;
-
             await PopupNavigation.Instance.PopAsync();
         }
         

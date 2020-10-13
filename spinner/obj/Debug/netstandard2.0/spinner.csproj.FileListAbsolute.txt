@@ -13,3 +13,16 @@
 /Users/nathan-kim/Projects/spinner/spinner/obj/Debug/netstandard2.0/ref/spinner.dll
 /Users/nathan-kim/Projects/spinner/spinner/obj/Debug/netstandard2.0/spinner.pdb
 /Users/nathan-kim/Projects/spinner/spinner/obj/Debug/netstandard2.0/View/CustomPicker.xaml.g.cs
+/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/bin/Debug/netstandard2.0/spinner.deps.json
+/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/bin/Debug/netstandard2.0/spinner.dll
+/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/bin/Debug/netstandard2.0/ref/spinner.dll
+/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/bin/Debug/netstandard2.0/spinner.pdb
+/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/obj/Debug/netstandard2.0/spinner.csprojAssemblyReference.cache
+/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/obj/Debug/netstandard2.0/spinner.AssemblyInfoInputs.cache
+/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/obj/Debug/netstandard2.0/spinner.AssemblyInfo.cs
+/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/obj/Debug/netstandard2.0/spinner.csproj.CoreCompileInputs.cache
+/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/obj/Debug/netstandard2.0/spinner.dll
+/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/obj/Debug/netstandard2.0/ref/spinner.dll
+/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner/obj/Debug/netstandard2.0/spinner.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pq0WXOf+oWG+YLgQX0CFGeCCrLyz0pwAKFpH6ycDJNYrwQC7/kVH36BsbYu0Hk4C8NdYiajwxLPvMMUVZfQ/ZQ==",
+  "dgSpecHash": "hbPOrADPPQfYC5+wjAt9BAnKFpvu+3TIRHz3aCu0SK68LFsl7PAppJUqb7HebWHJ6xhTnOQemlbqD7U1FOS+lA==",
   "success": true,
-  "projectFilePath": "/Users/nathan-kim/Projects/spinner/spinner.Android/spinner.Android.csproj",
+  "projectFilePath": "/Users/nathan-kim/Projects/CustomPicker-Xamarin/spinner.Android/spinner.Android.csproj",
   "expectedPackageFiles": [
     "/Users/nathan-kim/.nuget/packages/rg.plugins.popup/2.0.0.6/rg.plugins.popup.2.0.0.6.nupkg.sha512",
     "/Users/nathan-kim/.nuget/packages/xamarin.android.arch.core.common/1.1.1.3/xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
